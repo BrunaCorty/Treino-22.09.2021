@@ -1,0 +1,49 @@
+Criar um repositório
+Para colocar seu projeto no GitHub, você precisará criar um repositório no qual ele residirá.
+
+Criar um repositório
+Você pode armazenar vários projetos nos repositórios do GitHub, incluindo projetos de código aberto. Com os projetos de código aberto, é possível compartilhar código para criar softwares melhores e mais confiáveis. You can use repositories to collaborate with others and track your work. For more information, see "About repositories."
+
+Observação: você pode criar repositórios públicos para um projeto de código aberto. Ao criar um repositório público, certifique-se de incluir um arquivo de licença que determina como deseja que seu projeto seja compartilhado com outras pessoas. Para mais informações sobre código aberto, especificamente como criar e crescer um projeto de código aberto, Criamos Guias em Código Aberto que ajudarão você a fomentar uma comunidade de código aberto saudável, recomendando as melhores práticas para a criação e manutenção de repositórios para seu projeto de código aberto. Você também pode participar de um curso gratuito GitHub Learning Lab sobre a manutenção de comunidades de código aberto.
+
+No canto superior direito de qualquer página, use o menu suspenso  e selecione Novo repositório.
+Menu suspenso com a opção de criar um novo repositório
+Digite um nome curto e fácil de memorizar para seu repositório. Por exemplo, "olá mundo".
+Campo para inserir um nome de repositório
+Se desejar, adicione uma descrição do repositório. Por exemplo, "Meu primeiro repositório no GitHub".
+Campo para inserir uma descrição do repositório
+Escolha uma visibilidade do repositório. Para obter mais informações, consulte "Sobre a visibilidade do repositório."
+Botões de opção para selecionar a visibilidade do repositório
+Selecione Initialize this repository with a README (Inicializar este repositório com um README).
+Caixa de seleção Initialize this repository with a README (Inicializar este repositório com um README)
+Clique Criar repositório.
+Button to create repository
+Parabéns! Você criou com êxito seu primeiro repositório e o inicializou com um arquivo README.
+
+Dica: Você também pode criar repositórios usando GitHub CLI. Para obter mais informações, consulte "criar repositório gh" na documentação do GitHub CLI.
+
+Fazer commit da primeira alteração
+
+FONTE: https://docs.github.com/pt/github/getting-started-with-github/quickstart/create-a-repo
+
+
+Um commit é como um instantâneo de todos os arquivos no seu projeto em um determinado momento.
+
+Na criação do repositório, você o inicializou com um arquivo README. Os arquivos README são um excelente local para descrever seu projeto mais detalhadamente ou para adicionar alguma documentação, por exemplo, como instalar ou usar seu projeto. O conteúdo do arquivo README é mostrado automaticamente na primeira página do repositório.
+
+Vamos fazer commit de uma alteração no arquivo README.
+
+Na lista de arquivos do repositório, clique em README.m.
+Arquivo README na lista de arquivos
+Acima do conteúdo do arquivo, clique em .
+Na guia Edit file (Editar arquivo), digite algumas informações sobre si mesmo.
+Novo conteúdo no arquivo
+Acima do novo conteúdo, clique em Preview changes (Visualizar alterações).
+Botão de visualização do arquivo
+Revise as alterações feitas no arquivo. Você verá o novo conteúdo em verde.
+Visualização de arquivo
+No final da página, digite uma mensagem de commit curta e significativa que descreva a alteração feita no arquivo. Você pode atribuir o commit a mais de um autor na mensagem de commit. Para obter mais informações, consulte "Criar um commit com vários co-autores."
+Mensagem do commit para sua alteração
+Abaixo dos campos de mensagem do commit, opte por adicionar o commit ao branch atual ou a um novo branch. Se seu branch atual for o branch-padrão, você deverá optar por criar um novo branch para seu commit e, em seguida, criar um pull request. Para obter mais informações, consulte "Criar uma nova pull request."
+Opções para fazer commit no branch
+Clique em Propose file change (Propor alteração no arquivo).

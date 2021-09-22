@@ -1,0 +1,22 @@
+Typora - Um Editor Markdown Moderno e Minimalista
+
+Typora um poderoso, moderno e minimalista editor markdown, este artigo tem como proposito apresenta-lo a ferramenta.
+
+A experiência de usuário no Typora  tem uma forma minimalista e livre de distrações. No painel esquerdo, você tem os arquivos de markdown do seu projeto e, ao lado, você tem o resultado final bem na frente de seus olhos. A visualização principal é como o GitHub por padrão, embora existam outros temas disponíveis também.
+
+Typora também apresenta funções extras de marcação que incluem blocos de código, blocos matemáticos, notas de rodapé, tudo trabalhando junto para aprimorar o fluxo de trabalho e a produtividade. 
+
+Recursos em Typora
+
+Gratuito e multiplataforma: Baixe e avalie o Typora gratuitamente pelo tempo que desejar em qualquer sistema operacional de desktop.
+Interface do usuário totalmente personalizável usando CSS: Selecione a font do Typora, cor de fundo, cor da fonte, etc. usando CSS simples.
+Suporte para arrastar e soltar para imagens: adicione facilmente imagens da web ou em arquivo.
+Visualização perfeita em tempo real: o Typora formata sua marcação em tempo real enquanto você escreve.
+Múltiplas opções de exportação: converta seus arquivos markdown em PDF, EPUB e HTML.
+Suporte a LaTeX para blocos matemáticos: Adicione blocos de expressões matemáticas usando LaTeX.
+Atalhos de teclado: torne-se um usuário avançado aproveitando a longa lista de comandos de teclado do Typora.
+O Typora  tem mais recursos do que os listados acima, mas você terá que ler sobre eles em seu site e baixa-lo para testar.
+
+Você escreve o texto da mesma maneira que faria no VS Code, mas os elementos são convertidos no resultado final istantaneamente conforme você o digita. Por exemplo, começar adiciona um hash “#” no inicio e forneça algum conteúdo e clique em enter, e você terá o cabeçalho gerado ali. O mesmo vale para marcadores e imagens, clocos de código, etc - digite a marcação desejada e veja os resultados ao vivo. Também torna o tratamento de erros na marcação muito mais fácil, se o elemento não aparecer, você deve ter feito algo errado.
+
+Fonte: https://phelliperodrigues.dev/git/2020/12/27/typora-um-editor-markdown-moderno-e-minimalista/#/

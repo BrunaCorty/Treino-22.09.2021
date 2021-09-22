@@ -2,5 +2,6 @@
 
 ## Links úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/getting-started/)
+
 [Editor Ideal](https://typora.io/)
 
